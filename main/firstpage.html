@@ -6,6 +6,9 @@
     <link rel="icon" type="image/jpg" href="img/ff.jpg">
 </head>
 <body>
+<header style="background-color: #816677">
+    <h1>Welcome.</h1>
+</header>
 <p>Fatal Frame Project - normal</p>
 <p>Fatal <b>Frame</b> Project - bold</p> <!---bold--->
 <p>Fatal <i>Frame</i> Project - italic</p> <!---italic--->
@@ -26,13 +29,121 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 Aperiam, at dignissimos dolor dolorem eligendi,
 iste libero odio omnis possimus quibusdam quos, rerum vero!
 Cupiditate, dolores error fugit illo sunt voluptas?
-    </span>
+</span>
 </pre>
+
 <pre><div style="background-color: #9d7a8f">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 Blanditiis eius eligendi itaque modi nulla odio,
 quidem reiciendis veritatis vero voluptatem! Aliquid ducimus eius impedit
 neque nesciunt praesentium suscipit ut voluptatibus!
-    </div>
+</div>
 </pre>
+<hr>
+<ul>
+    Unordered list:
+    <li>camera</li>
+    <li>soul</li>
+    <li>found footage</li>
+    <ul>
+        <li>bones</li>
+        <li>secrets</li>
+    </ul>
+</ul>
+<ol>
+    Ordered list:
+    <li>find _</li>
+    <li>sell your soul</li>
+    <li>find footage</li>
+
+</ol>
+<dl>Description list:
+    <dt>Camera</dt>
+    <dd>An old camera. You can film with it in average quality.</dd>
+    <dt>Bones</dt>
+    <dd>Someone's bones. You don't know whose.</dd>
+    <dt>Souls</dt>
+    <dd>They can hear you. Be nice.</dd>
+</dl>
+<hr>
+<h3>Library Hours</h3>
+<table style="background-color: #c5b1be" border="1px solid black">
+    <tr style="background-color: #9b8a96">
+        <th width="100">Monday</th>
+        <th width="100">Tuesday</th>
+        <th width="100">Wednesday</th>
+        <th width="100">Thursday</th>
+        <th width="100">Friday</th>
+        <th width="100">Saturday</th>
+        <th width="100">Sunday</th>
+    </tr>
+    <tr align="center">
+        <td style="background-color: #816677" width="100"><b>Closed</b></td>
+        <td width="100">9am - 9pm</td>
+        <td width="100">9am - 9pm</td>
+        <td width="100">9am - 9pm</td>
+        <td width="100">10am - 7pm</td>
+        <td width="100"><del>stay away.</del></td>
+        <td style="background-color: #816677" width="100"><b>Closed</b></td>
+    </tr>
+</table>
+<hr>
+<a href="main.html" target="_blank" title="Goes to main page">
+<button style="font-size: 15px;background-color: #816677; color: #3a3a3a;
+border: 2px solid  #3a3a3a; border-radius: 5px;
+">Click.</button>
+</a>
+<hr>
+<fieldset style="background-color: #d9cad3; border: 10px ridge  #adadad;">
+    <legend style="font-size: 18px">Make your wish...</legend>
+<form action="firstpage.html" method="post" enctype="multipart/form-data">
+    <label for="name">Your name?: </label>
+    <input type="text" id="name" placeholder="name" minlength="3" maxlength="15" ><br>
+
+    <label for="password">Your wish?: </label>
+    <input type="password" id="password" placeholder="password" minlength="3" ><br>
+
+    <label for="email">Email?: </label>
+    <input type="email" id="email" placeholder="brokenangel@gmail.com" minlength="3" ><br>
+
+    <label for="phone">Phone?: </label>
+    <input type="tel" id="phone" placeholder="222-222-666" pattern="[0-9]{3}-[0-9]{3}-[0-9]{3}" ><br>
+
+    <label for="bday">Day of your birth?: </label>
+    <input type="date" id="bday"><br>
+
+    <label for="quantity">Quantity: </label>
+    <input type="number" id="quantity" value="1"><br>
+
+    <label>Gender?: </label>
+        <label for="male">Male</label>
+        <input type="radio" id="male" value="male" name="gender" >
+        <label for="female">Female</label>
+        <input type="radio" id="female" value="female" checked="checked" name="gender">
+        <label for="angel">Angel</label>
+        <input type="radio" id="angel" value="angel" name="gender"><br>
+    <label for="payment">Payment?: </label>
+    <select id="payment">
+        <option value="money">Money.</option>
+        <option value="body">Body.</option>
+        <option value="soul">Soul.</option>
+    </select><br>
+    <label for="agreement">Do you agree??: </label>
+    <input type="checkbox" id="agreement"><br>
+
+    <label for="comment">What do you want?: </label>
+    <textarea id="comment" rows="3" cols="25"></textarea><br>
+
+    <label for="file">File: </label>
+    <input type="file" id="file" accept="image/png, image/jpg, image/gif"><br>
+
+    <input type="submit">
+    <input type="reset"><br>
+</form>
+</fieldset>
+<br>
+<hr>
+<footer style="background-color: #9d7a8f">
+    Goodbye.
+</footer>
 </body>
 </html>
