@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background-image: url("../img/stacyja.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Javanese Text", sans-serif;
+}
+header {
+    background-color: black;
+    opacity: 80%;
+    min-height: 175px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+header img{
+    height: 120px;
+    border-radius: 15px;
+    display: inline;
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+header h3{
+    margin-top: 30px;
+    color: white;
+}
+.info{
+    color: #b4b4b4;
+    padding: 30px;
+}
+.info input, select{
+    color: #727272;
+    background-color: #1a1a1a;
+}
+.info #submit, #reset{
+    color: #b4b4b4;
+    border: black solid 1px;
+    background-color: #1a1919;
+    text-align: center;
+    padding: 5px;
+    height: 30px;
+    width: 100px;
+    transition: transform 0.3s ease;
+}
+.info #submit:hover, #reset:hover{
+    opacity: 80%;
+    background-color: #000000;
+    transform: scale(1.5);
+    animation-name: glow;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes glow {
+    50% {
+        box-shadow: 0 0 50px rgb(152, 151, 151, 2);
+    }
+
+}

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12d7841a-df78-4351-8e36-8b2398577fea" name="Changes" comment="day 3 - started the ui or something like that. Did button and just a bit of look.">
+      <change afterPath="$PROJECT_DIR$/firstpage/firstpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstpage/img/forestfontanna2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstpage/img/lala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstpage/img/letter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/firstpage/styles/firstpagestyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondpage/img/lala.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondpage/img/stacyja.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondpage/secondpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/secondpage/styles/secondpagestyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main/main.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;iishkaa&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/iishkaa/fatalframe.git&quot;,
+    &quot;accountId&quot;: &quot;09a7c934-cdc1-4f48-a253-ffd1ee441892&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;843a5aff&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="33kHtqPg6dso4s20VlDcqeZqy1b" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/micha/WebstormProjects/fatalframe_sep_2025/secondpage/img",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/micha/AppData/Roaming/JetBrains/WebStorm2025.2/node/versions/22.20.0/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\micha\WebstormProjects\fatalframe_sep_2025\secondpage\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\micha\WebstormProjects\fatalframe_sep_2025\secondpage\img" />
+      <recent name="C:\Users\micha\WebstormProjects\fatalframe_sep_2025\firstpage\img" />
+      <recent name="C:\Users\micha\WebstormProjects\fatalframe_sep_2025" />
+      <recent name="C:\Users\micha\WebstormProjects\fatalframe_sep_2025\main\img" />
+      <recent name="C:\Users\micha\WebstormProjects\fatalframe_sep_2025\main" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-WS-252.25557.126" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12d7841a-df78-4351-8e36-8b2398577fea" name="Changes" comment="" />
+      <created>1759854369906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759854369906</updated>
+      <workItem from="1759854371148" duration="656000" />
+      <workItem from="1762344363981" duration="2367000" />
+      <workItem from="1762359537195" duration="3440000" />
+      <workItem from="1762436828516" duration="6820000" />
+      <workItem from="1762612846400" duration="10397000" />
+      <workItem from="1762694003353" duration="7275000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1759854604362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759854604362</updated>
+    </task>
+    <task id="LOCAL-00002" summary="day 1">
+      <option name="closed" value="true" />
+      <created>1762363694356</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762363694356</updated>
+    </task>
+    <task id="LOCAL-00003" summary="day 2">
+      <option name="closed" value="true" />
+      <created>1762444272774</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762444272774</updated>
+    </task>
+    <task id="LOCAL-00004" summary="day 2">
+      <option name="closed" value="true" />
+      <created>1762444280245</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762444280245</updated>
+    </task>
+    <task id="LOCAL-00005" summary="day 3 - started the ui or something like that. Did button and just a bit of look.">
+      <option name="closed" value="true" />
+      <created>1762637177393</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762637177393</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <MESSAGE value="day 1" />
+    <MESSAGE value="day 2" />
+    <MESSAGE value="day 3 - started the ui or something like that. Did button and just a bit of look." />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3 - started the ui or something like that. Did button and just a bit of look." />
+  </component>
+</project>

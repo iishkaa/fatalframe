@@ -1,0 +1,79 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+body {
+    background-image: url("../img/forestfontanna2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: "Javanese Text", sans-serif;
+}
+header {
+    background-color: black;
+    opacity: 80%;
+    min-height: 175px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+header img{
+    height: 120px;
+    border-radius: 15px;
+    display: inline;
+    float: left;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+header h3{
+    margin-top: 30px;
+    color: white;
+}
+.main-container {
+    text-align: center;
+    font-family: "Javanese Text", sans-serif;
+}
+.letter{
+    position: relative;
+    display: inline-block;
+}
+.letter img{
+    height: 600px;
+    display: block;
+    box-shadow: 0 0 10px 10px rgb(0,0,0,0.9) ;
+}
+.letter p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+button {
+
+    opacity: 70%;
+    border-radius: 7px;
+    border: black solid 1px;
+    background-color: #1a1919;
+    text-align: center;
+    padding: 5px;
+    height: 60px;
+    width: 100px;
+    transition: transform 0.3s ease;
+    transform: translate(120px, -250px)
+}
+button a{
+    color: #C0BFBFFF;
+    text-decoration: none;
+}
+button:hover {
+    opacity: 80%;
+    background-color: #000000;
+    transform: translate(120px, -250px) scale(1.5);
+    animation-name: glow;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes glow{
+    50%{box-shadow:0 0 50px rgb(152, 151, 151, 2);}
+
+}
